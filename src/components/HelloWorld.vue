@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Calling Child method from parent</h1>
+    <h1>Calling <b>child</b> method from <b>parent</b></h1>
     <BaseButton></BaseButton>
   </div>
 </template>
